@@ -1,0 +1,4 @@
+.btn:hover {
+  transform: scale(1.013);
+  transition: ease-in-out;
+}
