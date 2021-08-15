@@ -12,7 +12,7 @@ function Login() {
   }, [router]);
 
   return (
-    <div>
+    <div className="w-full">
       <LoginComponent
         mail={mail}
         setMail={setMail}

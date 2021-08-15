@@ -84,7 +84,7 @@ class PanelComponent extends Component {
               Çıkış
             </div>
           </div>
-          <div className="rounded-lg p-3 mt-7 h-auto lg:mt-0 bg-gray-200 mx-auto lg:ml-5 w-full lg:w-5/6 shadow-lg hover:shadow-xl">
+          <div className="rounded-lg p-3 mb-5 mt-7 h-auto lg:mt-0 bg-gray-200 mx-auto lg:ml-5 w-full lg:w-5/6 shadow-lg hover:shadow-xl">
             <table className="rounded-3xl shadow-lg table-auto w-full border border-indigo-200 bg-gray-100">
               <thead className="border shadow-xl border-indigo-200 text-gray-700 bg-indigo-300 bg-opacity-70">
                 <tr className="h-10">

@@ -43,7 +43,7 @@ class LoginComponent extends Component {
           </div>
         ) : null}
         <form
-          className="sm:p-10 p-7 flex flex-col rounded-lg h-80 items-center justify-center shadow-lg hover:shadow-xl bg-gray-100"
+          className="sm:p-10 p-7 w-10/12 sm:w-auto flex flex-col rounded-lg h-80 items-center justify-center shadow-lg hover:shadow-xl bg-gray-100"
           onSubmit={this.loginForm}
         >
           <h1 className="mb-6 text-center text-xl sm:text-3xl font-semibold text-gray-700">
